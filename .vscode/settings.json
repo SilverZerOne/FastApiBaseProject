@@ -1,0 +1,10 @@
+{
+    "python.testing.pytestArgs": [
+        "tests",
+        "--cov"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.autoTestDiscoverOnSaveEnabled" : true,
+    "python.experiments.optInto": ["pythonTestAdapter"]
+}
